@@ -43,7 +43,7 @@ I'm a full stack developer...
 
 - [PAYROLL](https://i.postimg.cc/W31W2dJ5/pnt-payroll.png)
 
-- [SCHOOL-MANAGEMENT-SYSTEM](https://apps.piit.us/school-management)
+- [SCHOOL-MANAGEMENT-SYSTEM](https://i.postimg.cc/t4LnqwZw/school-management-system.png)
 
 - [INVENTORY](https://apps.piit.us/inventory/demo)
 
