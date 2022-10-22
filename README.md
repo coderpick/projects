@@ -8,13 +8,58 @@ I'm a full stack developer...
 
 ## My works
 
- - [univac](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [jobnresume](https://github.com/matiassingers/awesome-readme)
- - [healthbd24](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+- [UNIVAC](https://univac.ugc.gov.bd)
+
+- [IZOOM](https://izoom.com.bd)
+
+- [JOBNRESUME](https://jobnresume.com)
+
+- [HEALTHBD24](https://healthbd24.com)
+
+- [IELTSMASTERBD](https://www.ieltsmasterbd.com)
+
+- [ITTRAININGTUBE-LMS](https://ittrainingtube.com/v3)
+
+- [CAMPODETOLEDO](https://camposdetoledo.com)
+
+- [SOBAROY-E-Commerce](https://sobaroy.com)
+
+- [SUBMISSION-UGC](http://submission-ugc.gov.bd)
+
+- [PIIT.COM.BD](https://piit.com.bd)
+
+- [PEOPLENTECH.ORG](https://peoplentech.org)
+
+- [STUDENT-MANAGEMENT-SYSTEM-FOR-USA](https://sms.peoplentech.com)
+
+- [POINT-OF-SAIL-POS](https://new.apps.piit.us/pnt-pos)
+
+- [APPOINTMENT-SYSTEM](https://apps.piit.us/appointment)
+
+- [CRM-FOR-PIIT-BD](https://crm.peoplentech.com.bd)
+
+- [PAYROLL](https://payroll.peoplentech.com)
+
+- [SCHOOL-MANAGEMENT-SYSTEM](https://apps.piit.us/school-management)
+
+- [INVENTORY](https://apps.piit.us/inventory/demo)
+
+- [POLICE-CLUB-FOR-BD-POLICE](https://apps.piit.us/police-club-v1)
+
+- [TECHLIFE](https://www.techlife.com.bd)
+
+- [BDTUTORIALZONE](https://bdtutorialzone.com)
+
+- [KOBIOKABBO](https://kobiokabbo.com)
+
+- [BOOKSFACTORY](https://booksfactory.com.bd)
+
+- [SMARTILLUSION](https://smartillusion.com)
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+## 🛠 Skills & Tools
+HTML, CSS, Boostrap, Javascript, jQuery, Ajax, Vue, PHP, MySQL, LARAVEL, Linux, Valet, VS-Code, PHPSTORM
 
 
 ## 🔗 Links
