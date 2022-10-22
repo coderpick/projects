@@ -35,11 +35,11 @@ I'm a full stack developer...
 
 - [STUDENT-MANAGEMENT-SYSTEM-FOR-USA](https://i.postimg.cc/D0QC21w4/sms-for-usa-branches.png)
 
-- [POINT-OF-SAIL-POS](https://new.apps.piit.us/pnt-pos)
+- [POINT-OF-SAIL-POS](https://i.postimg.cc/020843PP/pnt-pos.png)
 
 - [APPOINTMENT-SYSTEM](https://apps.piit.us/appointment)
 
-- [CRM-FOR-PIIT-BD](https://crm.peoplentech.com.bd)
+- [CRM-FOR-PIIT-BD](https://i.postimg.cc/QMy5TCy4/pnt-crm.png)
 
 - [PAYROLL](https://payroll.peoplentech.com)
 
