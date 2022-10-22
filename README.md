@@ -33,7 +33,7 @@ I'm a full stack developer...
 
 - [PEOPLENTECH.ORG](https://peoplentech.org)
 
-- [STUDENT-MANAGEMENT-SYSTEM-FOR-USA](https://sms.peoplentech.com)
+- [STUDENT-MANAGEMENT-SYSTEM-FOR-USA](https://i.postimg.cc/D0QC21w4/sms-for-usa-branches.png)
 
 - [POINT-OF-SAIL-POS](https://new.apps.piit.us/pnt-pos)
 
