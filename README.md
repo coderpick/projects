@@ -41,7 +41,7 @@ I'm a full stack developer...
 
 - [CRM-FOR-PIIT-BD](https://i.postimg.cc/QMy5TCy4/pnt-crm.png)
 
-- [PAYROLL](https://payroll.peoplentech.com)
+- [PAYROLL](https://i.postimg.cc/W31W2dJ5/pnt-payroll.png)
 
 - [SCHOOL-MANAGEMENT-SYSTEM](https://apps.piit.us/school-management)
 
