@@ -45,7 +45,7 @@ I'm a full stack developer...
 
 - [SCHOOL-MANAGEMENT-SYSTEM](https://i.postimg.cc/t4LnqwZw/school-management-system.png)
 
-- [INVENTORY](https://apps.piit.us/inventory/demo)
+- [INVENTORY](https://i.postimg.cc/YS0RZhLk/inventory.png)
 
 - [TECHLIFE](https://www.techlife.com.bd)
 
