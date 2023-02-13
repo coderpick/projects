@@ -9,7 +9,7 @@ I'm a full stack developer...
 ## My works
 - [NATIONALSTEAMOLYMPIAD](https://nationalsteamolympiad.com/)
 
-- [PROJECT MONITORING SYSTEM](https://eskillbd.com/pms/)
+- [PROJECT MONITORING SYSTEM](https://upms.ugc.gov.bd/)
 
 - [UNIVAC](https://univac.pntdns.com)
 
