@@ -27,7 +27,7 @@ I'm a full stack developer...
 
 - [IELTSMASTERBD](https://www.ieltsmasterbd.com)
 
-- [ITTRAININGTUBE-LMS](https://ittrainingtube.com/v3)
+- [ITTRAININGTUBE-LMS](https://ittrainingtube.com/v1)
 
 - [CAMPODETOLEDO](https://camposdetoledo.com)
 
